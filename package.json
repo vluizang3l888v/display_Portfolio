@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vluizang3l888v/Portfolio.git"
+  },
+  "author": "Luis Salazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vluizang3l888v/Portfolio/issues"
+  },
+  "homepage": "https://github.com/vluizang3l888v/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
